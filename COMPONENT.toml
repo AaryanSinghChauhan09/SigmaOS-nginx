@@ -3,7 +3,7 @@ name = "SigmaOS-nginx"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "nginx component"
+description = "Nginx"
 upstream = []
 
 [contract]
